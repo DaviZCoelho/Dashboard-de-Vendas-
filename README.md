@@ -33,4 +33,4 @@ Instale e rode:
 
 2. `npm run dev`
 
-Acesse a demonstração em: 
+Acesse a demonstração em: dashboard-de-vendas-two.vercel.app
