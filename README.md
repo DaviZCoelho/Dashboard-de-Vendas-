@@ -26,7 +26,9 @@ Configure as variáveis de ambiente (.env.local):
 Plaintext
 
 NEXT_PUBLIC_SUPABASE_URL=sua_url
+
 NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_key
+
 Instale e rode:
 
 Bash
