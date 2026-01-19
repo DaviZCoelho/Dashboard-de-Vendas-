@@ -2,6 +2,8 @@
 
 Dashboard de gestão de relacionamento com o cliente desenvolvido para gerenciar o fluxo de leads e conversão de vendas, com foco em isolamento de dados e visualização de métricas.
 
+Acesse a demonstração em: dashboard-de-vendas-two.vercel.app
+
 <img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/c97fc9ea-34fa-42cd-82d9-008c35897db0" />
 
 
