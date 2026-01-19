@@ -23,18 +23,14 @@ Sincronização de Estados: Atualização em tempo real de KPIs e gráficos.
 # Como rodar
 Configure as variáveis de ambiente (.env.local):
 
-Plaintext
+1. `NEXT_PUBLIC_SUPABASE_URL=sua_url`
 
-NEXT_PUBLIC_SUPABASE_URL=sua_url
-
-NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_key
+2. `NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_key`
 
 Instale e rode:
 
-Bash
+1. `npm install`
 
-npm install
-
-npm run dev
+2. `npm run dev`
 
 Acesse a demonstração em: 
