@@ -34,5 +34,7 @@ Instale e rode:
 Bash
 
 npm install
+
 npm run dev
+
 Acesse a demonstração em: 
