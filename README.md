@@ -1,4 +1,5 @@
-Dashboard - Gestão Comercial
+#Dashboard - Gestão Comercial
+
 Dashboard de gestão de relacionamento com o cliente desenvolvido para gerenciar o fluxo de leads e conversão de vendas, com foco em isolamento de dados e visualização de métricas.
 
 Tecnologias
