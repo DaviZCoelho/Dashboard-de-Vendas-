@@ -1,8 +1,8 @@
-#Dashboard - Gestão Comercial
+# Dashboard - Gestão Comercial
 
 Dashboard de gestão de relacionamento com o cliente desenvolvido para gerenciar o fluxo de leads e conversão de vendas, com foco em isolamento de dados e visualização de métricas.
 
-Tecnologias
+# Tecnologias
 Next.js 15 / React 19
 
 Supabase (PostgreSQL / Auth)
@@ -11,7 +11,7 @@ Tailwind CSS (UI/UX)
 
 Recharts (Data Viz)
 
-Diferenciais Aplicados
+# Diferenciais Aplicados
 Isolamento de Dados (RLS): Implementação de Row Level Security no banco de dados para garantir que usuários acessem apenas seus próprios registros.
 
 Segurança de Backend: Políticas de segurança aplicadas diretamente na camada do PostgreSQL (PostgREST).
@@ -20,7 +20,7 @@ Experiência do Usuário (UX): Login facilitado com preenchimento automático pa
 
 Sincronização de Estados: Atualização em tempo real de KPIs e gráficos.
 
-Como rodar
+# Como rodar
 Configure as variáveis de ambiente (.env.local):
 
 Plaintext
